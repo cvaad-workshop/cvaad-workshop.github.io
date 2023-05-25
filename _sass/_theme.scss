@@ -45,9 +45,10 @@ body {
 .header .nav {
   display: flex;
   flex-direction: column-reverse;
-  align-items: flex-end;
+  align-items: center;
   justify-content: flex-end;
   overflow: hidden;
+  text-align: center
 }
 
 .feature {
@@ -77,8 +78,11 @@ body {
 }
 
 .nav {
+  text-align: center;
   a {
     padding: .2rem;
+    //color: #1932E1;
+    color: #000000;
   }
   &--social a {
     display: inline-block;
@@ -214,8 +218,9 @@ body {
 // Links, icons and images
 a .icon {
   transition: fill .1s;
+  color: #1932E1;
   &:hover {
-    fill: currentColor;
+    fill: #7382EF;
   }
 }
 
@@ -461,4 +466,14 @@ pre code {
     white-space: pre;
     overflow-x: scroll;
   }
+}
+
+// Remaining elements
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
 }
