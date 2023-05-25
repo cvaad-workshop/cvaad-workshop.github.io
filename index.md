@@ -5,7 +5,7 @@ feature_text: |
 feature_image: "assets/images/cover-image1.png"
 ---
 
-{% include button.html text="Call for Papers" link="/papers/" color="#ff54b0" %}{% include button.html text="Competition" link="/competition/" color="#ff54b0" %}{% include button.html text="Organization" link="/organization/" color="#ff54b0" %}{% include button.html text="Keynotes" link="/keynotes/" color="#ff54b0"%}
+{% include button.html text="Call for Papers" link="/papers/" color="#1932E1" %}{% include button.html text="Competition" link="/competition/" color="#1932E1" %}{% include button.html text="Organization" link="/organization/" color="#1932E1" %}{% include button.html text="Keynotes" link="/keynotes/" color="#1932E1"%}
 
 <!---color blue: #7382EF, dark green: #8DAB7F, light green: #CFEE9D, pink: #ff54b0, color dark blue: #1932E1 --->
 
