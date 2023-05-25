@@ -10,7 +10,7 @@ feature_image: "assets/images/cover-image1.png"
 <!---color blue: #7382EF, dark green: #8DAB7F, light green: #CFEE9D, pink: #ff54b0, color dark blue: #1932E1 --->
 
 
-Welcome to the **first workshop** on Computer Vision Aided Architectural Design (CVAAD). We are delighted that our workshop will be hosted at this year's [International Conference on Computer Vision](https://iccv2023.thecvf.com/) (ICCV).
+Welcome to the **first workshop** on Computer Vision Aided Architectural Design (CVAAD). We are delighted that our workshop will be hosted at the [International Conference on Computer Vision 2023](https://iccv2023.thecvf.com/) (ICCV).
 
 *CVAAD aims at strengthening the partnership of architectural design with that of computer vision, by more formally closing the loop between real-world problems in architectural design and tangible computer vision tasks as well as properly curated data. Establishing denser feedback between the two disciplines could have a profound effect on the trillion-dollar built-environment market and, more crucially, the overall quality of life worldwide.*
 

@@ -1,7 +1,6 @@
 ---
-title: 
-feature_text: |
-  # Organization
+title: Organization
+feature_text: 
 feature_image: "../assets/images/cover-image1.png"
 ---
 

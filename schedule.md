@@ -1,7 +1,6 @@
 ---
-title: 
-feature_text: |
-  # Schedule and Keynotes
+title: Schedule & Keynotes
+feature_text:
 feature_image: "../assets/images/cover-image3.png"
 ---
 
