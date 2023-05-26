@@ -477,3 +477,54 @@ pre code {
   flex: 33.33%;
   padding: 5px;
 }
+
+img.rounded {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+img.rounded-large {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 1000px;
+  width: 1000px;
+}
+
+// Styling for the team section
+.team-member {
+  margin-bottom: 50px;
+  text-align: center;
+  img {
+    width: 225px;
+    height: 225px;
+    border: 7px solid $white;
+  }
+  h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+  }
+  p {
+    margin-top: 0;
+  }
+}
+
+.team-member-large {
+  margin-bottom: 0px;
+  text-align: center;
+  img {
+    width: 450px;
+    height: 450px;
+    border: 7px solid $white;
+  }
+  h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+  }
+  p {
+    margin-top: 0;
+  }
+}
