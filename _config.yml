@@ -126,14 +126,14 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
+- title: Keynotes
+  url: /keynotes/
 - title: Papers
   url: /papers/
 - title: Competition
   url: /competition/
-- title: Schedule & Keynotes
+- title: Schedule
   url: /schedule/
-- title: Organization
-  url: /organization/
 
 navigation_footer:
  title: Created and maintained by Casper van Engelenburg

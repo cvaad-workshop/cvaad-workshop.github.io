@@ -5,24 +5,26 @@ feature_text: |
 feature_image: "assets/images/cover-image1.png"
 ---
 
+<!---
 {% include button.html text="Call for Papers" link="/papers/" color="#1932E1" %}{% include button.html text="Competition" link="/competition/" color="#1932E1" %}{% include button.html text="Organization" link="/organization/" color="#1932E1" %}{% include button.html text="Keynotes" link="/keynotes/" color="#1932E1"%}
+--->
 
 <!---color blue: #7382EF, dark green: #8DAB7F, light green: #CFEE9D, pink: #ff54b0, color dark blue: #1932E1 --->
 
 
-Welcome to the **first workshop** on Computer Vision Aided Architectural Design (CVAAD). We are delighted that our workshop will be hosted at the [International Conference on Computer Vision 2023](https://iccv2023.thecvf.com/) (ICCV).
+Welcome to the first workshop on Computer Vision Aided Architectural Design (CVAAD). We are delighted that our workshop will be hosted at the [International Conference on Computer Vision](https://iccv2023.thecvf.com/) (ICCV), October 3, 2023.
 
-*CVAAD aims at strengthening the partnership of architectural design with that of computer vision, by more formally closing the loop between real-world problems in architectural design and tangible computer vision tasks as well as properly curated data. Establishing denser feedback between the two disciplines could have a profound effect on the trillion-dollar built-environment market and, more crucially, the overall quality of life worldwide.*
+<!---color
+*CVAAD aims at strengthening the partnership of architectural design with that of computer vision, by more formally closing the loop between real-world problems in architectural design and tangible computer vision tasks as well as properly curated data. Establishing denser feedback between the two disciplines could have a profound effect on the trillion-dollar built-environment market and, more crucially, the overall quality of life worldwide.* --->
 
 ## About the workshop
 
-The workshop connects the domains of architectural design with that of computer vision by establishing a common ground of interaction and identifying shared research interests. Specifically, this workshop introduces novel data and applications, from the discipline of architectural design, to open new opportunities for researchers in computer vision. Specifically, the workshop consists of three parts:
+The workshop aims at expanding the interdisciplinary domain of computer vision in architectural design, encouraging collaboration, and investigating common research interests. By showcasing datasets and applications from architectural design, this workshop creates opportunities for computer vision researchers. Through keynote talks, discussions, and a workshop challenge, attendees will explore relevant topics from both generative and analytic computer vision for the applications and processes in architectural design. This will shed light on the needs, constraints, and challenges associated with developing and implementing effective computer vision tasks and methods in architectural design and research. The workshop consists of the following:
 
-- [Hybrid workshop](/schedule/)
+- [Invited speakers](/keynotes/)
 - [Paper submissions](/papers/)
-- [Competition on Floor Plan Auto-Completion](/competition/)
-
-Through the keynote talks, discussions, and the workshop’s challenge, relevant topics will be presented to attendees from the dual lens of computer vision and architecture, highlighting the requirements, limitations, and bottlenecks related to developing and adopting robust and useful computer vision applications for architectural design and research practice.
+- [Competition on floor plan auto-completion](/competition/)
+- [Workshop schedule](/schedule/)
 
 ## Organization
 
@@ -53,7 +55,7 @@ Through the keynote talks, discussions, and the workshop’s challenge, relevant
     </div>
     <div class="column">
         <div class="team-member">
-              <img class="rounded" src="assets/images/fatemeh-photo.png" alt="fatemeh-mostafavi">
+              <img class="rounded" src="assets/images/fatemeh-photo.jpeg" alt="fatemeh-mostafavi">
               <h4><a href="https://www.tudelft.nl/staff/f.mostafavi/?cHash=db57104f8776c2a1522b91c039845e84">Fatemeh Mostafavi</a></h4>
               <p class="text-muted">Doctoral candidate at the faculty of Architecture and the Built Environment, Delft University of Technology</p>
         </div>

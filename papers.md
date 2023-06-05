@@ -20,9 +20,8 @@ For the reviewing process, we will be engaging a committee of experts from both 
 
 Provisional schedule for the paper submission and review process:
 
-| <span style="color:red"> Paper submission deadline </span> | July 30, 2023 (11:59 PM Anywhere on Earth) |
-| Papers distributed to reviewers                            | August 07, 2023                            |
-| Review submission deadline                                 | August 21, 2023                            |
-| Notification to Authors                                    | September 8, 2023                          |
-| Camera-ready Deadline                                      | September 15, 2023                         |
-| Conference                                                 | October 2 - 6, 2023                        |
+- Abstract registration deadline: July 13th, 2023, 23:59 GMT
+- Submission deadline: July 14th, 2023, 23:59 GMT
+- Author notifications: August 4th, 2023
+- Camera-ready deadline: August 11th, 2023, 23:59 GMT
+- Workshop: October 3rd, 2023, 9:00-13:00 GMT+2
