@@ -16,7 +16,7 @@ Dr. Noah Snavely is an associate professor in the [Computer Science Department](
       <img class="rounded-large" src="../assets/images/noah-photo.jpeg" alt="noah-snavely">
 </div>
 
-### [Mathias Strandfest](https://standfest.science/)
+### [Matthias Strandfest](https://standfest.science/)
 
 Matthias Standfest is an architect with main interests directed towards understanding the geometric impact on architecture performance models using machine learning methods. He received his Ph.D. from [ETH Zurich](https://ethz.ch/en.html) with Dr. Gerhard Schmitt and as a guest at [FCL](https://fcl.ethz.ch/) Singapore with [Prof. Dr. Ludger Hovestadt](https://ethz.ch/en/the-eth-zurich/organisation/who-is-who/arch/details.OTYyMTY=.TGlzdC8xOTA1LC0xMzE3NTA2NzE5.html), he has balanced method development for mesh-based deep learning techniques with the application of these tools to predict urban simulation results in real-time. He is the curator of [Swiss Dwellings](https://zenodo.org/record/7070952) — the World's largest dataset of apartment models including aggregated geolocation-based simulation results covering viewshed, natural light, traffic noise, centrality, and geometric analysis.
 
