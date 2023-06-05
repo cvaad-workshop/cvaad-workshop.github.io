@@ -1,7 +1,7 @@
 ---
 title: Floor plan auto-completion
 feature_text: 
-feature_image: "../assets/images/cover-image1.png"
+feature_image: "../assets/images/cover-image3.png"
 ---
 
 The workshop will host the **first international competition on floor plan auto-completion**.

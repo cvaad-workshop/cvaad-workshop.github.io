@@ -1,7 +1,7 @@
 ---
 title: Call for Papers
 feature_text: 
-feature_image: "../assets/images/cover-image3.png"
+feature_image: "../assets/images/cover-image1.png"
 ---
 
 We cordinally invite researchers to submit papers related to the topics of the workshop. Topics include, but are not limited to:
