@@ -62,9 +62,19 @@ The workshop aims at expanding the interdisciplinary domain of computer vision i
     </div>
 </div>
 
-
-<div class="team-member">
-      <img class="rounded" src="assets/images/casper-photo.jpg" alt="casper-van-engelenburg">
-      <h4><a href="https://www.tudelft.nl/staff/c.c.j.vanengelenburg/?cHash=a72f1da92639fa8301893a08d4b49da1">Casper van Engelenburg</a></h4>
-      <p class="text-muted">Doctoral candidate at the faculty of Architecture and the Built Environment, Delft University of Technology</p>
+<div class="row">
+    <div class="column">
+        <div class="team-member">
+              <img class="rounded" src="assets/images/casper-photo.jpg" alt="casper-van-engelenburg">
+              <h4><a href="https://www.tudelft.nl/staff/c.c.j.vanengelenburg/?cHash=a72f1da92639fa8301893a08d4b49da1">Casper van Engelenburg</a></h4>
+              <p class="text-muted">Doctoral candidate at the faculty of Architecture and the Built Environment, Delft University of Technology</p>
+        </div>
+    </div>
+    <div class="column">
+        <div class="team-member">
+              <img class="rounded" src="assets/images/michael-photo.png" alt="michael-franzen">
+              <h4><a href="https://www.tudelft.nl/staff/c.c.j.vanengelenburg/?cHash=a72f1da92639fa8301893a08d4b49da1">Michael Franzen</a></h4>
+              <p class="text-muted">Senior Software Engineer, Archylise AG, Switzerland</p>
+        </div>
+    </div>
 </div>
