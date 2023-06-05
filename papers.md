@@ -6,11 +6,11 @@ feature_image: "../assets/images/cover-image1.png"
 
 We cordinally invite researchers to submit papers related to the topics of the workshop. Topics include, but are not limited to:
 
-- Re-thinking **computer vision tasks for architectural design**: What type of laborious tasks in design can be automated using computer vision models?
+- Re-thinking computer vision tasks for architectural design: What type of laborious tasks in design can be automated using computer vision models?
 
-- Re-thinking **deep learning datasets for architectural visual data** including architectural drawings and 3D models. What is the status of benchmark datasets of visual data in architectural design? What are the main bottlenecks to developing trustworthy datasets?
+- Re-thinking deep learning datasets for architectural visual data including architectural drawings and 3D models. What is the status of benchmark datasets of visual data in architectural design? What are the main bottlenecks to developing trustworthy datasets?
 
-- Re-thinking **model architectures** of computer vision such as convolutional neural networks to adapt to the novel visual data in architectural design. What type of neural networks are needed to capture the semantics and compositional relations in architectural drawings?
+- Re-thinking model architectures of computer vision such as convolutional neural networks to adapt to the novel visual data in architectural design. What type of neural networks are needed to capture the semantics and compositional relations in architectural drawings?
 
 Accepted papers will be published in the proceedings.
 
