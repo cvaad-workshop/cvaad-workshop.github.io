@@ -4,8 +4,6 @@ feature_text:
 feature_image: "../assets/images/cover-image3.png"
 ---
 
-## Keynote speakers
-
 The following keynote speakers have confirmed.
 
 ### [Noah Snavely](https://www.cs.cornell.edu/~snavely/)
