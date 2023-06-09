@@ -6,6 +6,14 @@ feature_image: "../assets/images/cover-image3.png"
 
 The following keynote speakers have confirmed.
 
+### [Alexei A. Efros](http://people.eecs.berkeley.edu/~efros/)
+
+TODO: add text.
+
+<div class="team-member">
+      <img class="rounded-large" src="../assets/images/alexei-photo.jpeg" alt="alexei-a-efros">
+</div>
+
 ### [Noah Snavely](https://www.cs.cornell.edu/~snavely/)
 
 Dr. Noah Snavely is an associate professor in the [Computer Science Department](http://www.cs.cornell.edu/) at [Cornell Tech](http://tech.cornell.edu/) interested in computer vision and computer graphics, and a member of the [Cornell Graphics and Vision Group](http://rgb.cs.cornell.edu/). He also works at Google Research in NYC. His research interests are in computer vision and graphics, particularly in 3D understanding and depicting scenes from images. He is the recipient of a PECASE, a Microsoft New Faculty Fellowship, an Alfred P. Sloan Fellowship, and the SIGGRAPH Significant New Researcher Award.
