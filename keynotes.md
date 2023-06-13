@@ -8,10 +8,10 @@ The following keynote speakers have confirmed.
 
 ### [Alexei A. Efros](http://people.eecs.berkeley.edu/~efros/)
 
-TODO: add text.
+Alexei (Alyosha) Efros is a professor at EECS Department at [UC Berkeley](http://www.berkeley.edu/), where he is part of the [Berkeley Artificial Intelligence Research Lab (BAIR)](http://bair.berkeley.edu/). Before that, he spent a decade on the faculty of the [Robotics Institute](http://www.ri.cmu.edu/) at [CMU](http://www.cmu.edu/). He is also still remembered in [lovely Oxford](http://www.robots.ox.ac.uk/~vgg/people.html), where he did a post-doc with [Andrew Zisserman](http://www.robots.ox.ac.uk/~az). Starting in 2007, he has also been closely collaborating with [Team WILLOW](http://www.di.ens.fr/willow/) at [École Normale Supérieure](http://www.ens.fr/) / [INRIA](https://flic.kr/s/aHsju3GuLK) in beautiful Paris.
 
 <div class="team-member">
-      <img class="rounded-large" src="../assets/images/alexei-photo.jpeg" alt="alexei-a-efros">
+      <img class="rounded-large" src="../assets/images/alexei-photo.png" alt="alexei-a-efros">
 </div>
 
 ### [Noah Snavely](https://www.cs.cornell.edu/~snavely/)
