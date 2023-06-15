@@ -9,7 +9,7 @@ feature_image: "assets/images/cover-image1.png"
 {% include button.html text="Call for Papers" link="/papers/" color="#1932E1" %}{% include button.html text="Competition" link="/competition/" color="#1932E1" %}{% include button.html text="Organization" link="/organization/" color="#1932E1" %}{% include button.html text="Keynotes" link="/keynotes/" color="#1932E1"%}
 --->
 
-<!---color blue: #7382EF, dark green: #8DAB7F, light green: #CFEE9D, pink: #ff54b0, color dark blue: #1932E1 --->
+<!---color blue: #7382EF, dark green: #8DAB7F, light green: #CFEE9D, pink: #ff54b0, color dark blue: #1932E1, color ... --->
 
 
 Welcome to the first workshop on Computer Vision Aided Architectural Design (CVAAD). We are delighted that our workshop will be hosted at the [International Conference on Computer Vision](https://iccv2023.thecvf.com/) (ICCV), October 3, 2023.
