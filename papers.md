@@ -27,6 +27,10 @@ _Examples_: [RPLAN](http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.htm
 
 What type of neural networks and training frameworks are needed to capture the semantics and compositional relations from architectural-specific data? _Examples_: graph neural networks, convolutional neural networks, transformers, self-supervised learning, similarity learning, transfer learning.
 
+## Posters
+
+Accepted workshop papers will have the chance to present their findings through a poster presentation. Furthermore, authors of relevant papers accepted at ICCV 2023 are welcome to submit their posters at our workshop.
+
 ## Author guidelines
 - Accepted papers will be published in the proceedings;
 - [Template](https://iccv2023.thecvf.com/submission.guidelines-361600-2-20-16.php) adheres to ICCV full paper submission;
@@ -41,4 +45,5 @@ Provisional schedule for the paper submission and review process:
 - Submission deadline: July 26th, 2023, 23:59 GMT
 - Author notifications: August 7th, 2023
 - Camera-ready deadline: August 21th, 2023, 23:59 GMT
+- Poster submission deadline: September 27th, 2023
 - Workshop: October 3rd, 2023, 9:00-13:00 GMT+2
