@@ -37,8 +37,8 @@ What type of neural networks and training frameworks are needed to capture the s
 
 Provisional schedule for the paper submission and review process:
 
-- Abstract registration deadline: July 13th, 2023, 23:59 GMT
-- Submission deadline: July 14th, 2023, 23:59 GMT
-- Author notifications: August 4th, 2023
-- Camera-ready deadline: August 11th, 2023, 23:59 GMT
+- Abstract registration deadline: July 24th, 2023, 23:59 GMT
+- Submission deadline: July 26th, 2023, 23:59 GMT
+- Author notifications: August 7th, 2023
+- Camera-ready deadline: August 21th, 2023, 23:59 GMT
 - Workshop: October 3rd, 2023, 9:00-13:00 GMT+2
