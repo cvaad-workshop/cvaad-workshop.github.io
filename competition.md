@@ -13,6 +13,9 @@ The floor plan auto-completion task takes as input the boundary of a building, t
 
 The submitted models will be evaluated on [Codalab](https://codalab.org/). We will update you on when the server is ready (we expect the server to run at the start of July).
 
+## Reward
+We have a reward of 1000eu for the best competitor.
+
 ## Important dates
 - Challenges open: June 22nd, 2023;
 - Challenges close: September 15th, 2023;
