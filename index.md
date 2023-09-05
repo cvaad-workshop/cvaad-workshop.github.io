@@ -83,7 +83,7 @@ The workshop aims at expanding the interdisciplinary domain of computer vision i
     <div class="column">
         <div class="team-member">
               <img class="rounded" src="assets/images/mathias-photo.jfif" alt="matthias-strandfest">
-              <h4><a href="https://profiles.stanford.edu/iro-armeni?releaseVersion=10.5.2">Matthias Standfest</a></h4>
+              <h4><a href="https://standfest.science/">Matthias Standfest</a></h4>
               <p class="text-muted">Founder of Archylise AG and Swiss Dwellings, Switzerland </p>
         </div>
     </div>
