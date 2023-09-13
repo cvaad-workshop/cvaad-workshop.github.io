@@ -22,6 +22,14 @@ Dr. Noah Snavely is an associate professor in the [Computer Science Department](
       <img class="rounded-large" src="../assets/images/noah-photo.jpeg" alt="noah-snavely">
 </div>
 
+### [Francis Engelmann](https://inf.ethz.ch/people/people-atoz/person-detail.Mjk1NTc0.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html)
+
+Dr. Francis Engelmann is a PostDoctoral Researcher at ETH Zurich with Prof. [Marc Pollefeys](https://people.inf.ethz.ch/marc.pollefeys/), and a visiting researcher at Google Zurich. Francis' research focuses on large-scale 3D scene understanding for modeling interactive spaces and generating novel environments. Previously, he completed his PhD in computer science under the supervision of Prof. [Bastian Leibe](https://scholar.google.com/citations?user=ZcULDB0AAAAJ&hl=de) at the [computer vision group](https://www.vision.rwth-aachen.de/) of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1). His research has been recognized through the ETH Zurich Career Seed Award and the ETH AI Center Postdoctoral Fellowship.
+
+<div class="team-member">
+      <img class="rounded-large" src="../assets/images/francis-photo.png" alt="francis-engelmann">
+</div>
+
 ### [Matthias Strandfest](https://standfest.science/)
 
 Matthias Standfest is an architect with main interests directed towards understanding the geometric impact on architecture performance models using machine learning methods. He received his Ph.D. from [ETH Zurich](https://ethz.ch/en.html) with Dr. Gerhard Schmitt and as a guest at [FCL](https://fcl.ethz.ch/) Singapore with [Prof. Dr. Ludger Hovestadt](https://ethz.ch/en/the-eth-zurich/organisation/who-is-who/arch/details.OTYyMTY=.TGlzdC8xOTA1LC0xMzE3NTA2NzE5.html), he has balanced method development for mesh-based deep learning techniques with the application of these tools to predict urban simulation results in real-time. He is the curator of [Swiss Dwellings](https://zenodo.org/record/7070952) — the World's largest dataset of apartment models including aggregated geolocation-based simulation results covering viewshed, natural light, traffic noise, centrality, and geometric analysis.
