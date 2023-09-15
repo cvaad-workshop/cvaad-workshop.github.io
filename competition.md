@@ -18,8 +18,8 @@ We have a reward of 1000eu for the best competitor.
 
 ## Important dates
 - Challenges open: June 22nd, 2023;
-- Challenges close: September 15th, 2023;
-- Technical reports due: September 20th, 2023;
+- Challenges close: September 25th, 2023;
+- Technical reports due: September 25th, 2023;
 - Winners announced: Live session at ICCV.
 
 ## Rules
