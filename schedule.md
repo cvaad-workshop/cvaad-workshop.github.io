@@ -6,6 +6,8 @@ feature_image: "../assets/images/cover-image1.png"
 
 ### Preliminary Schedule
 
+---
+
 - **08.30 - 08.45** Welcome & Introduction
   
 ---
@@ -39,3 +41,5 @@ feature_image: "../assets/images/cover-image1.png"
 ---
 
 - **11.50 - 12.30** Poster presentation
+
+--- 
