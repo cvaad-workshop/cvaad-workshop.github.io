@@ -11,7 +11,7 @@ The floor plan auto-completion task takes as input the boundary of a building, t
 - The **dataset** can be downloaded [here](https://data.4tu.nl/datasets/e1d89cb5-6872-48fc-be63-aadd687ee6f9).
 - The **guidelines** of the challenge can be found [here](https://github.com/cvaad-workshop/iccv23-challenge).
 
-The submitted models will be evaluated on [Codalab](https://codalab.org/). We will update you on when the server is ready (we expect the server to run at the start of July).
+The submitted models will be evaluated on [Codalab](https://codalab.lisn.upsaclay.fr/competitions/14431). ~We will update you on when the server is ready (we expect the server to run at the start of July).~
 
 ## Reward
 We have a reward of 1000eu for the best competitor.
