@@ -32,14 +32,6 @@ feature_image: "../assets/images/cover-image1.png"
 
 ---
 
-- **11.00 - 11.40** (keynote 2) **Alyosha Efros**, UC Berkeley, "title TBD"
-
----
-
-- **11.40 - 11.50** Concluding remarks
-
----
-
-- **11.50 - 12.30** Poster presentation
+- **11.00 - 12.30** Poster panel and presentations
 
 --- 
