@@ -6,14 +6,6 @@ feature_image: "../assets/images/cover-image3.png"
 
 The following keynote speakers have confirmed.
 
-### [Alexei A. Efros](http://people.eecs.berkeley.edu/~efros/)
-
-Alexei (Alyosha) Efros is a professor at EECS Department at [UC Berkeley](http://www.berkeley.edu/), where he is part of the [Berkeley Artificial Intelligence Research Lab (BAIR)](http://bair.berkeley.edu/). Before that, he spent a decade on the faculty of the [Robotics Institute](http://www.ri.cmu.edu/) at [CMU](http://www.cmu.edu/). He is also still remembered in [lovely Oxford](http://www.robots.ox.ac.uk/~vgg/people.html), where he did a post-doc with [Andrew Zisserman](http://www.robots.ox.ac.uk/~az). Starting in 2007, he has also been closely collaborating with [Team WILLOW](http://www.di.ens.fr/willow/) at [École Normale Supérieure](http://www.ens.fr/) / [INRIA](https://flic.kr/s/aHsju3GuLK) in beautiful Paris. He has co-authored several seminal papers in computer vision including [Pix2Pix](https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html) and [Cycle GAN](https://arxiv.org/abs/1703.10593) as well as inspiring work on “[what makes Paris look like Paris](http://graphics.cs.cmu.edu/projects/whatMakesParis/)”!
-
-<div class="team-member">
-      <img class="rounded-large" src="../assets/images/alexei-photo.png" alt="alexei-a-efros">
-</div>
-
 ### [Noah Snavely](https://www.cs.cornell.edu/~snavely/)
 
 Dr. Noah Snavely is an associate professor in the [Computer Science Department](http://www.cs.cornell.edu/) at [Cornell Tech](http://tech.cornell.edu/) interested in computer vision and computer graphics, and a member of the [Cornell Graphics and Vision Group](http://rgb.cs.cornell.edu/). He also works at Google Research in NYC. His research interests are in computer vision and graphics, particularly in 3D understanding and depicting scenes from images. He is the recipient of a PECASE, a Microsoft New Faculty Fellowship, an Alfred P. Sloan Fellowship, and the SIGGRAPH Significant New Researcher Award.
