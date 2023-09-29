@@ -32,6 +32,10 @@ feature_image: "../assets/images/cover-image1.png"
 
 ---
 
-- **11.00 - 12.30** Poster panel and presentations
+- **11.00 - 11.30** (keynote 2) **Daniel G. Aliaga**, Purdue University, "Urban Deep Generative Modeling"
 
 --- 
+
+- **11.30 - 12.30** Poster panel and concluding remarks
+
+---
