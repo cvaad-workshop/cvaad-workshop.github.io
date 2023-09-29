@@ -19,7 +19,7 @@ Dr. Noah Snavely is an associate professor in the [Computer Science Department](
 Daniel Aliaga holds BS in Computer Science, honors thesis (with Andy van Dam) and magna cum laude, from Brown University. Subsequently, obtained a MS (with Henry Fuchs) and a PhD degree (with Anselmo Lastra, Fred Brooks, and Dinesh Manocha) in Computer Science from UNC Chapel Hill. Worked at Nokia/Lucent/AT\&&T Bell Labs (with Ingrid Carlbom) and at Princeton University as a researcher (with Tom Funkhouser). He joined Purdue in 2003, co-founding the Computer Graphics and Visualization Laboratory (CGVLAB). Dr. Aliaga has held visiting professor positions at ETH Zurich Information Architecture and also ETH Computer Science, INRIA Sophia-Antipolis, and KAUST in Saudi Arabia. After finishing high school (Colegio Santa Maria), Daniel immigrated from Lima, Peru and is the first in his family and relatives to hold a PhD.
 
 <div class="team-member">
-      <img class="rounded-large" src="../assets/images/daniel-photo.jpg" alt="daniel-aliaga">
+      <img class="rounded-large" src="../assets/images/aliaga.jpg" alt="daniel-aliaga">
 </div>
 
 ### [Francis Engelmann](https://inf.ethz.ch/people/people-atoz/person-detail.Mjk1NTc0.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html)
