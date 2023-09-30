@@ -26,6 +26,35 @@ The workshop aims at expanding the interdisciplinary domain of computer vision i
 - [Competition on floor plan auto-completion](/competition/)
 - [Workshop schedule](/schedule/)
 
+## Speakers
+
+- [Noah Snavely](https://www.cs.cornell.edu/~snavely/), Cornell Tech and Google Research
+- [Daniel G. Aliaga](https://www.cs.purdue.edu/homes/aliaga/), Purdue University
+- [Francis Engelmann](https://inf.ethz.ch/people/people-atoz/person-detail.Mjk1NTc0.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html), ETH Zurich
+- [Matthias Strandfest](https://standfest.science/), A.G. Archylise
+
+## Accepted workshop papers
+
+- Scalable MAV Indoor Reconstruction with Neural Implicit Surfaces
+- PanoStyle: Semantic, Geometry-Aware, and Shading Independent Photorealistic Style Transfer for Indoor Panoramic Scenes
+- MARL: Multi-scale Archetype Representation Learning for Building Energy Estimation
+- SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity
+- Floor Plan Reconstruction from Sparse Views: Combining Graph Neural Network with Constrained Diffusion
+
+(Links will be included later.)
+
+## Poster panel
+
+**ICCV 2023 conference papers**
+- [Doppelgangers: Learning to Disambiguate Images of Similar Structures](https://arxiv.org/abs/2309.02420)
+- [SGAligner: 3D Scene Alignment with Scene Graphs](https://arxiv.org/abs/2304.14880)
+- [GlobalMapper: Arbitrary-Shaped Urban Layout Generation](https://arxiv.org/abs/2307.09693)
+- [Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer](https://arxiv.org/abs/2307.08015)
+
+**Guest Posters**
+- [Carbon Image Project]()
+- A Taxonomy of Visual Data in Architectural Design
+
 ## Organization
 
 <div class="row">
