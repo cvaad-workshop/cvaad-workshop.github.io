@@ -15,7 +15,7 @@ feature_image: "assets/images/cover-image1.png"
 
 **Our workshop will be live 8.45 - 12.30, Oct 3, @ ICCV 2023**
 
-- In-person attendance: Convetion Center Paris @ WO8 
+- In-person attendance: [Convention Center Paris](https://www.viparis.com/en/our-venues/paris-convention-centre-en) @ WO8 
 - On-line attendance: https://tudelft.zoom.us/j/95792712509
 
 ---
