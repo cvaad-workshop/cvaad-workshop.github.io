@@ -13,7 +13,7 @@ feature_image: "assets/images/cover-image1.png"
 
 ---
 
-**Our workshop will be live 8.45 - 12.30, Oct 3, @ ICCV 2023**
+**Our workshop will be live 8.30 - 12.30, Oct 3, @ ICCV 2023**
 
 - In-person attendance: [Convention Center Paris](https://www.viparis.com/en/our-venues/paris-convention-centre-en) @ WO8 
 - On-line attendance: [https://tudelft.zoom.us/j/95792712509](https://tudelft.zoom.us/j/95792712509)
@@ -60,7 +60,7 @@ The workshop aims at expanding the interdisciplinary domain of computer vision i
 - [Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer](https://arxiv.org/abs/2307.08015)
 
 **Guest Posters**
-- [Carbon Image Project]()
+- [Carbon Image Project](https://carbonimage.github.io/)
 - A Taxonomy of Visual Data in Architectural Design
 
 ## Organization
