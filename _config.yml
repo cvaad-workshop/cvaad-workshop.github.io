@@ -134,6 +134,8 @@ navigation_header:
   url: /competition/
 - title: Schedule
   url: /schedule/
+- title: Media
+  url: /media/
 
 navigation_footer:
  title: Created and maintained by Casper van Engelenburg
