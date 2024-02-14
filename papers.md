@@ -9,7 +9,7 @@ We cordinally invite researchers to submit papers related to the topics of the w
 - **Re-thinking computer vision tasks for architectural design**: What type of laborious tasks in design can be automated using computer vision models? 
 _Example works_: 
 [Graph2Plan](https://arxiv.org/abs/2004.13204),
-[What Makes Paris Look like Paris?](http://graphics.cs.cmu.edu/projects/whatMakesParis/paris_sigg_reduced.pdf),
+[What Makes Paris Look like Paris?](https://inria.hal.science/hal-01053876/),
 [LayoutGMN](https://arxiv.org/abs/2012.06547).
 
 - **Re-thinking deep learning datasets for architectural visual data including architectural drawings and 3D models**: What is the status of benchmark datasets of visual data in architectural design? What are the main bottlenecks to developing trustworthy datasets? 
