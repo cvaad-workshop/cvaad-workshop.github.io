@@ -4,7 +4,7 @@ feature_text:
 feature_image: "../assets/images/cover-image3.png"
 ---
 
-The following keynote speakers have confirmed.
+We had the priviledge of hosting a diverse group of engaging speakers:
 
 ### [Noah Snavely](https://www.cs.cornell.edu/~snavely/)
 
