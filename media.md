@@ -14,7 +14,7 @@ We introduce the 1st workshop on Computer Vision-Aided Architectural Design (CVA
 **Update May 2023**
 Our dataset is part of the Kaggle community:
 
-[MSD on Kaggle]](https://www.kaggle.com/datasets/caspervanengelenburg/modified-swiss-dwellings)
+[MSD on Kaggle](https://www.kaggle.com/datasets/caspervanengelenburg/modified-swiss-dwellings)
 
 ---
 
