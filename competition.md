@@ -20,12 +20,13 @@ The submitted models were evaluated on [Codalab](https://codalab.lisn.upsaclay.f
 We have a reward of 1000eu for the best competitor.
 
 ## Best competitors
-
-Two competitors scored best:
+We happily announce the **two best contenders**:
 
 > **Emanuel Kuhn (Delft University of Technology)**. Emanuel developed a model for floor plan generation based on [HouseDiffusion](https://arxiv.org/abs/2211.13287), a state-of-the-art diffusion model tailored towards floor plan generation of single-family houses. He added several modules to adapt it to our task and checked the generalizability of the diffusion method towards our dataset. Technical report [here](https://arxiv.org/abs/2312.03938).
 
 > **Yuntae Jeon (Sungkyunkwan University)**. Yuntae developed a model for floor plan generation that combines a U-Net with a graph convolution network in latent-space. Technical report [here](https://arxiv.org/abs/2309.13881).
+
+While Emanuel scored best on the user tests, Yuntae scored best on the quantitative metrics. Hence, we decided to split the price in two.
 
 ## Important dates
 - ~~Challenges open: June 22nd, 2023~~
