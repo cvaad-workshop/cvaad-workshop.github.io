@@ -44,7 +44,7 @@ Photos of the workshop live in Paris Convention center:
 
 A nice summary of the event by Fatemeh Mostafavi:
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7092419940233658368" height="500" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7115990691289120768" height="500" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 Another nice summary and highlights of the main event by Casper van Engelenburg:
 
