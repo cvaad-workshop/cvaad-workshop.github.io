@@ -1,7 +1,7 @@
 ---
 title: Media
 feature_text: 
-feature_image: "../assets/images/cover-image1.png"
+feature_image: "../assets/images/cover-image3.png"
 ---
 
 **Update April 2023**
