@@ -7,13 +7,24 @@ feature_image: "../assets/images/cover-image1.png"
 We cordinally invite researchers to submit papers related to the topics of the workshop. Topics include, but are not limited to:
 
 - **Re-thinking computer vision tasks for architectural design**: What type of laborious tasks in design can be automated using computer vision models? 
-_Example works_: floor plan generation; 2D / 3D reconstruction of buildings; architectural element recognition.
+_Example works_: 
+[Graph2Plan](https://arxiv.org/abs/2004.13204),
+[What Makes Paris Look like Paris?](http://graphics.cs.cmu.edu/projects/whatMakesParis/paris_sigg_reduced.pdf),
+[LayoutGMN](https://arxiv.org/abs/2012.06547).
 
 - **Re-thinking deep learning datasets for architectural visual data including architectural drawings and 3D models**: What is the status of benchmark datasets of visual data in architectural design? What are the main bottlenecks to developing trustworthy datasets? 
-_Examples works_: [RPLAN](http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.html), [Google Landmarks](https://github.com/cvdfoundation/google-landmark), [Swiss Dwellings](https://zenodo.org/record/7070952), [CubiCasa5K](https://github.com/CubiCasa/CubiCasa5k), [AmsterTime](https://arxiv.org/abs/2203.16291).
+_Examples works_: 
+[RPLAN](http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.html),
+[Google Landmarks](https://github.com/cvdfoundation/google-landmark), 
+[Swiss Dwellings](https://zenodo.org/record/7070952), 
+[CubiCasa5K](https://github.com/CubiCasa/CubiCasa5k), 
+[AmsterTime](https://arxiv.org/abs/2203.16291).
 
 - **Re-thinking model architectures of computer vision such as convolutional neural networks to adapt to the novel visual data in architectural design**: What type of neural networks and training frameworks are needed to capture the semantics and compositional relations from architectural-specific data? 
-_Example works_: graph neural networks, convolutional neural networks, transformers, self-supervised learning, similarity learning, transfer learning.
+_Example works_: 
+[Conv-MPN](https://arxiv.org/abs/1912.01756),
+[HouseGAN](https://arxiv.org/abs/2003.06988),
+[HouseDiffusion](https://arxiv.org/abs/2211.13287).
 
 ## Accepted workshop papers
 
