@@ -4,7 +4,7 @@ feature_text:
 feature_image: "../assets/images/cover-image1.png"
 ---
 
-Tentative schedule
+Schedule of the workshop (02.10.2023):
 
 - **08.30 - 08.45** Welcome & Introduction
 - **08.45 - 09.15** **Francis Engelman**, ETH Zurich, "3D Scene Understanding in the Real World"
