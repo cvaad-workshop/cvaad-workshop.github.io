@@ -5,36 +5,29 @@ feature_text: |
 feature_image: "assets/images/cover-image1.png"
 ---
 
-<!---
-{% include button.html text="Call for Papers" link="/papers/" color="#1932E1" %}{% include button.html text="Competition" link="/competition/" color="#1932E1" %}{% include button.html text="Organization" link="/organization/" color="#1932E1" %}{% include button.html text="Keynotes" link="/keynotes/" color="#1932E1"%}
---->
-
 <!---color blue: #7382EF, dark green: #8DAB7F, light green: #CFEE9D, pink: #ff54b0, color dark blue: #1932E1, color ... --->
 
----
+Welcome to the website of the **1st workshop on Computer Vision Aided Architectural Design (CVAAD)**. 
+We are delighted that our workshop was hosted at [the International Conference on Computer Vision](https://iccv2023.thecvf.com/) (ICCV) in Paris, 2023.
 
-**Our workshop will be live 8.30 - 12.30, Oct 3, @ ICCV 2023**
-
-- In-person attendance: [Convention Center Paris](https://www.viparis.com/en/our-venues/paris-convention-centre-en) @ WO8 
-- On-line attendance: [https://tudelft.zoom.us/j/95792712509](https://tudelft.zoom.us/j/95792712509)
-
----
-
-Welcome to the first workshop on Computer Vision Aided Architectural Design (CVAAD). We are delighted that our workshop will be hosted at the [International Conference on Computer Vision](https://iccv2023.thecvf.com/) (ICCV), October 3, 2023.
-
-<!---color
-*CVAAD aims at strengthening the partnership of architectural design with that of computer vision, by more formally closing the loop between real-world problems in architectural design and tangible computer vision tasks as well as properly curated data. Establishing denser feedback between the two disciplines could have a profound effect on the trillion-dollar built-environment market and, more crucially, the overall quality of life worldwide.* --->
 
 ## About the workshop
 
-The workshop aims at expanding the interdisciplinary domain of computer vision in architectural design, encouraging collaboration, and investigating common research interests. By showcasing datasets and applications from architectural design, this workshop creates opportunities for computer vision researchers. Through keynote talks, discussions, and a workshop challenge, attendees will explore relevant topics from both generative and analytic computer vision for the applications and processes in architectural design. This will shed light on the needs, constraints, and challenges associated with developing and implementing effective computer vision tasks and methods in architectural design and research. The workshop consists of the following:
+The workshop aims at expanding the interdisciplinary domain of computer vision in architectural design, encouraging collaboration, and investigating common research interests. 
+By showcasing datasets and applications from architectural design, the workshop creates opportunities for computer vision researchers. 
+Through keynote talks, discussions, and a workshop challenge, attendees explored relevant topics from both generative and analytic computer vision for the applications and processes in architectural design. 
+This shed light on the needs, constraints, and challenges associated with developing and implementing effective computer vision tasks and methods in architectural design and research. 
+The workshop consists of the following:
 
 - [Invited speakers](/keynotes/)
-- [Paper submissions](/papers/)
-- [Competition on floor plan auto-completion](/competition/)
-- [Workshop schedule](/schedule/)
+- [Papers and posters](/papers/)
+- [Competition: floor plan generation](/competition/)
+
+The schedule can be found [here](/schedule/).
 
 ## Speakers
+
+We had the priviledge of hosting a diverse group of engaging speakers:
 
 - [Noah Snavely](https://www.cs.cornell.edu/~snavely/), Cornell Tech and Google Research
 - [Daniel G. Aliaga](https://www.cs.purdue.edu/homes/aliaga/), Purdue University
@@ -43,23 +36,25 @@ The workshop aims at expanding the interdisciplinary domain of computer vision i
 
 ## Accepted workshop papers
 
-- Scalable MAV Indoor Reconstruction with Neural Implicit Surfaces
-- PanoStyle: Semantic, Geometry-Aware, and Shading Independent Photorealistic Style Transfer for Indoor Panoramic Scenes
-- MARL: Multi-scale Archetype Representation Learning for Building Energy Estimation
-- SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity
-- Floor Plan Reconstruction from Sparse Views: Combining Graph Neural Network with Constrained Diffusion
+The following papers were accepted and part of the official ICCV workshop proceedings:
 
-(Links will be included later.)
+- [Scalable MAV Indoor Reconstruction with Neural Implicit Surfaces](https://openaccess.thecvf.com/content/ICCV2023W/CVAAD/html/Li_Scalable_MAV_Indoor_Reconstruction_with_Neural_Implicit_Surfaces_ICCVW_2023_paper.html)
+- [PanoStyle: Semantic, Geometry-Aware, and Shading Independent Photorealistic Style Transfer for Indoor Panoramic Scenes](https://openaccess.thecvf.com/content/ICCV2023W/CVAAD/html/Tukur_PanoStyle_Semantic_Geometry-Aware_and_Shading_Independent_Photorealistic_Style_Transfer_for_ICCVW_2023_paper.html)
+- [MARL: Multi-scale Archetype Representation Learning for Building Energy Estimation](https://openaccess.thecvf.com/content/ICCV2023W/CVAAD/html/Zhuang_MARL_Multi-scale_Archetype_Representation_Learning_for_Urban_Building_Energy_Modeling_ICCVW_2023_paper.html)
+- [SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity](https://openaccess.thecvf.com/content/ICCV2023W/CVAAD/html/van_Engelenburg_SSIG_A_Visually-Guided_Graph_Edit_Distance_for_Floor_Plan_Similarity_ICCVW_2023_paper.html)
+- [Floor Plan Reconstruction from Sparse Views: Combining Graph Neural Network with Constrained Diffusion](https://openaccess.thecvf.com/content/ICCV2023W/CVAAD/html/Gueze_Floor_Plan_Reconstruction_from_Sparse_Views_Combining_Graph_Neural_Network_ICCVW_2023_paper.html)
 
 ## Poster panel
 
-**ICCV 2023 conference papers**
+For the poster panel, we invited authors of - 1) relevant-to-the-workshop conference papers 2) other works related to the topic of the workshop and 3) the accepted workshop papers - to present a poster of their work.
+
+**1. ICCV 2023 conference papers**
 - [Doppelgangers: Learning to Disambiguate Images of Similar Structures](https://arxiv.org/abs/2309.02420)
 - [SGAligner: 3D Scene Alignment with Scene Graphs](https://arxiv.org/abs/2304.14880)
 - [GlobalMapper: Arbitrary-Shaped Urban Layout Generation](https://arxiv.org/abs/2307.09693)
 - [Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer](https://arxiv.org/abs/2307.08015)
 
-**Guest Posters**
+**2. Guest posters**
 - [Carbon Image Project](https://carbonimage.github.io/)
 - A Taxonomy of Visual Data in Architectural Design
 
