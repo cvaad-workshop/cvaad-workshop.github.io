@@ -14,7 +14,7 @@ We introduce the 1st workshop on Computer Vision-Aided Architectural Design (CVA
 **Update May 2023**
 Our dataset is part of the Kaggle community:
 
-<iframe src="https://www.kaggle.com/datasets/caspervanengelenburg/modified-swiss-dwellings?trk=public_post_embed_feed-article-content" height="500" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[MSD on Kaggle]](https://www.kaggle.com/datasets/caspervanengelenburg/modified-swiss-dwellings)
 
 ---
 
@@ -48,7 +48,7 @@ A nice summary of the event by Fatemeh Mostafavi:
 
 Another nice summary and highlights of the main event by Casper van Engelenburg:
 
-<iframe src="https://caspervanengelenburg.substack.com/p/architecture-design-and-creativity?r=1z33lz&utm_campaign=post&utm_medium=web" height="500" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[Architecture, Design, and Creativity @ ICCV 2023](https://caspervanengelenburg.substack.com/p/architecture-design-and-creativity?r=1z33lz&utm_campaign=post&utm_medium=web)
 
 ---
 
